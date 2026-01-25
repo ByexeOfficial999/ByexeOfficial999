@@ -1,3 +1,7 @@
+Welcome 
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
 <p align="center"><a href="https://github.com/ByexeOfficial999"><img title="Byexe Official" src="https://github-readme-stats.vercel.app/api?username=ByexeOfficial999&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
