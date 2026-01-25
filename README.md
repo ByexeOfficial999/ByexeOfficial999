@@ -4,6 +4,7 @@
 ### Our Repository
 <a href="https://github.com/ByexeOfficial999/schoolnexus"><img title="schoolnexus" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=schoolnexus&theme=radical"></a>
 <a href="https://github.com/ByexeOfficial999/py_abstrak"><img title="py_abstrak" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=py_abstrak&theme=radical"></a>
-<a
-href="https://github.com/ByexeOfficial999/Otp-Spammer"><img title="Otp-Spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=Otp-Spammer &theme=radical"></a>
+<a href="https://github.com/ByexeOfficial999/Otp-Spammer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=Otp-Spammer&theme=radical&cache_seconds=86400" />
+</a>
 <a href="https://github.com/ByexeOfficial999/LocateIP"><img title="locateip" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=LocateIP&theme=radical"></a>
