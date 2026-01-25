@@ -7,7 +7,7 @@ Welcome
 
 <p align="center">
 <a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/byexe-ganz-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://saweria.co/donate/byexe" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Byexe" height="30" width="120"></a>
+<a href="https://saweria.co/donate/byexe" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Byexe" height="50" width="100"></a>
 <a href="https://youtube.com/ByexeOfficial"><img title="YouTube" src="https://img.shields.io/badge/Byexe-Official-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
