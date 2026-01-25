@@ -2,7 +2,7 @@
 </p>
 
 ### Our Repository
-<a href="https://github.com/DaemonTechX/Theme-X"><img title="theme-x" src="https://github-readme-stats.vercel.app/api/pin/?username=DaemonTechX&repo=Theme-X&theme=radical"></a>
-<a href="https://github.com/DaemonTechX/PyObfuscate"><img title="pyobfuscate" src="https://github-readme-stats.vercel.app/api/pin/?username=DaemonTechX&repo=PyObfuscate&theme=radical"></a>
-<a href="https://github.com/DaemonTechX/ngl_bomber"><img title="bomber" src="https://github-readme-stats.vercel.app/api/pin/?username=DaemonTechX&repo=ngl_bomber&theme=radical"></a>
-<a href="https://github.com/DaemonTechX/Gmail_Bomber"><img title="gmail_bomber" src="https://github-readme-stats.vercel.app/api/pin/?username=DaemonTechX&repo=Gmail_Bomber&theme=radical"></a>
+<a href="https://github.com/ByexeOfficial999/schoolnexus"><img title="schoolnexus" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=schoolnexus&theme=radical"></a>
+<a href="https://github.com/ByexeOfficial999/py_abstrak"><img title="py_abstrak" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=py_abstrak&theme=radical"></a>
+<a href="https://github.com/ByexeOfficial999/Otp-Spammer"><img title="Spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=Otp-Spammer &theme=radical"></a>
+<a href="https://github.com/ByexeOfficial999/LocateIP"><img title="locateip" src="https://github-readme-stats.vercel.app/api/pin/?username=ByexeOfficial999&repo=LocateIP&theme=radical"></a>
