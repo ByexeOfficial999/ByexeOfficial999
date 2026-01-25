@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://t.me/AlbertBlackHat"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://api.whatsapp.com/6283847035413"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://wa.me/6283847035413"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-black?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://tiktok.com/by_exe9"><img title="TikTok" src="https://img.shields.io/badge/TIKTOK-black?style=for-the-badge&logo=tiktok"></a>
 
 ### Our Repository 
